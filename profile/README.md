@@ -1,6 +1,6 @@
 <div align="center">
 
-# Armant
+# Armant Solutions
 
 **Data Driven Design Decisions**
 
