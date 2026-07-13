@@ -40,7 +40,7 @@ Client program work, controlled technical data, and proprietary analysis are dev
 
 We support customers across government and commercial aerospace, from early concept exploration and design space definition through analysis, test, and verification.
 
-- **General inquiries:** [info@armantsolutions.com](mailto:info@armantsolutions.com)
+- **General inquiries:** [armantsolutions.com/contact](https://www.armantsolutions.com/blank-3)
 - **Careers:** [armantsolutions.com/careers](https://www.armantsolutions.com/blank-4)
 
 <div align="center">
