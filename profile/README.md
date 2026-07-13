@@ -1,12 +1,10 @@
 <div align="center">
 
-# Armant Solutions
-
-**Data Driven Design Decisions**
+<img src="https://raw.githubusercontent.com/Armant-Solutions/.github/main/profile/assets/armant_llc_banner.png" alt="Armant LLC - Data Driven Design Decisions" width="100%">
 
 Multi-physics engineering simulation, analysis, and optimization for aerospace and defense.
 
-[Website](https://www.armantsolutions.com/) · [Services](https://www.armantsolutions.com/blank-2) · [Careers](https://www.armantsolutions.com/blank-4) · [Contact](mailto:info@armantsolutions.com)
+[Website](https://www.armantsolutions.com/) · [Services](https://www.armantsolutions.com/blank-2) · [People](https://www.armantsolutions.com/team-4) · [Careers](https://www.armantsolutions.com/blank-4) · [Contact](mailto:info@armantsolutions.com)
 
 </div>
 
@@ -14,7 +12,7 @@ Multi-physics engineering simulation, analysis, and optimization for aerospace a
 
 ## About
 
-Armant was founded by a team of aerospace engineers with backgrounds spanning software development, aerospace design, high-tech R&D, government contracts, and commercial programs. Our principal team members are drawn from across the aerospace industry and bring decades of ground test, flight test, and multi-physics simulation experience.
+Armant LLC was founded by a team of aerospace engineers with backgrounds spanning software development, aerospace design, high-tech R&D, government contracts, and commercial programs. Our principal team members are drawn from across the aerospace industry and bring decades of ground test, flight test, and multi-physics simulation experience.
 
 Our goal is not just to hand customers data. It is to deliver the right solution, one that keeps working for them well into the future. We help teams right-size the problem, then apply the appropriate level of fidelity to answer the questions that actually drive the design.
 
@@ -49,6 +47,6 @@ We support customers across government and commercial aerospace, from early conc
 
 **Our Expertise is Your Expertise**
 
-<sub>© Armant. All rights reserved.</sub>
+<sub>© Armant LLC. All rights reserved.</sub>
 
 </div>
